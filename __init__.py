@@ -20,7 +20,7 @@ bl_info = {
     "location": "",
     "warning": "",
     "tracker_url": "https://github.com/BD-Review/test-endpoint_offline/issues",
-    "endpoint_url": "https://raw.githubusercontent.com/BD-Review/test-endpoint_offline/main/endpoint.json",
+    "endpoint_url": "https://localhost",
     "category": "Generic"
 }
 
